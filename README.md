@@ -31,4 +31,4 @@ KeyError: 'items'
 
 ## 仕様
 
-1. [InstaPy](https://github.com/Hiiro-Uchiyama/instapy_automation/instapy/README.md)
+1. [InstaPy](https://github.com/InstaPy/InstaPy)
